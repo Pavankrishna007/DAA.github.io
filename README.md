@@ -1,12 +1,12 @@
 
-# Goutham Smart City Proposal
+# Quadaral Smart City Proposal
 
 ## The Team
 
-- **Vishruth G H**
-- **Pratyaksh Kaushik**
-- **Samarth Mallapur**
-- **Sumanth K S**
+- **Pavan krishna Sai. D**
+- **Rajat**
+- **Rahul**
+- **Shreedhar**
 
 [Project GitHub Repository](https://Project_Goutham.github.io)
 
