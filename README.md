@@ -1,8 +1,3 @@
----
-layout: default
-title: "Goutham Smart City Proposal"
-date: 2024-12-01
----
 
 # Goutham Smart City Proposal
 
