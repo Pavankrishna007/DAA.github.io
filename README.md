@@ -1,21 +1,44 @@
-The Team
-Vishruth G H
-Pratyaksh Kaushik
-Samarth Mallapur
-Sumanth K S
-Project_Goutham.github.io
+---
+layout: default
+title: "Goutham Smart City Proposal"
+date: 2024-12-01
+---
 
-The project started when we received the initial need statement from our course instructor:
-Design and Analysis of Algorithms-init
-Surrounded by a human habitat, there is an area of 1500 square kilometres that the government of India wants to convert into a smart city. Government is also cautious from the failed cities like Lavasa and Masdar etc. Prepare a city plan proposal for the government.
+# Goutham Smart City Proposal
 
-Proposal must include a city layout plan, budget, revenue models, sustainability, human population, and all other supporting relevant information.
+## The Team
 
-Assumptions: Area, State government, natural order (mountains, lakes etc.)
+- **Vishruth G H**
+- **Pratyaksh Kaushik**
+- **Samarth Mallapur**
+- **Sumanth K S**
 
-Overview
-Thomas Wayne's vision in the DC Comics transformed the fictional city of Gotham into a cutting-edge metropolis. Unfortunately, after his death, the city saw its downfall. Drawing lessons from such stories and realities such as the failed cities of Lavasa and Masdar, We propose a smart city - Goutham.
+[Project GitHub Repository](https://Project_Goutham.github.io)
 
-We plan to build this city by connecting and enhancing the existing cities of Dahod, Limdi, Singwad, Fatepura, Santroad, Piplod, Golav, Ruvabari, and others as shown in the map. The existing towns and cities will retain their respective name but will fall under the governance of Goutham and will be called a part of it. The region’s demands for the development and recognition of local culture will be given a stage efforts will be made to meet these demands.
+## Project Overview
 
-Goutham is a 1,500 sq.km sustainable, technologically advanced centre built on the Chota Udaipur Hills and the Gujarat plains, it experiences a moderate climate with gentle temperature fluctuations throughout the year. It also experiences moderate to heavy rainfall of about 1200mm per year. Local lakes and reservoirs are the city's main water supply.
+The project started with the need statement from our course instructor for the Design and Analysis of Algorithms course. The challenge is to design a smart city proposal for an area of 1500 square kilometres, which the government of India wants to convert into a sustainable and technologically advanced city.
+
+The proposal must cover various aspects such as:
+
+- City layout plan
+- Budget and revenue models
+- Sustainability measures
+- Human population distribution
+- Other supporting and relevant information
+
+### Key Assumptions for the Proposal:
+
+- **Area:** 1500 sq.km
+- **Location:** State government oversight
+- **Natural features:** Mountains, lakes, and water bodies
+
+## Overview of Goutham
+
+Inspired by the transformation of Gotham City from the DC Comics universe, the Goutham Smart City proposal envisions a technologically advanced metropolis that prioritizes sustainability and growth. However, unlike the fictional downfall of Gotham, Goutham aims to be a city with real-world feasibility, avoiding the mistakes of failed cities like Lavasa and Masdar.
+
+The city will be built by connecting existing towns and cities, including Dahod, Limdi, Singwad, Fatepura, Santroad, Piplod, Golav, and Ruvabari. These towns will retain their names but will be governed as part of Goutham. Efforts will also be made to celebrate and preserve the local culture and heritage while modernizing the infrastructure.
+
+### Location and Climate
+
+Goutham is planned to be situated on the Chota Udaipur Hills and Gujarat plains. This location experiences a moderate climate with gentle temperature fluctuations throughout the year. It receives about 1200mm of rainfall annually, and its main water supply will be sourced from local lakes and reservoirs.
