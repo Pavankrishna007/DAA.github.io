@@ -33,5 +33,28 @@ The proposal must cover various aspects such as:
 
 ## Overview of Quadaral City
 
+
+
+##Electricity Generation
+Using river currents flowing throughout the city to generate electricity sustainably.
+
+##Transport
+An exclusive, private transport facility to help residents navigate within the city.
+
+##EV Charge Stations
+A private company setting up charging stations, including an application for their business.
+
+##Food Delivery Service
+An efficient service ensuring timely delivery of meals across the city.
+
+##Automobile Service Centers
+Centers offering repairs and maintenance for vehicles at convenient locations.
+
+##Homestay
+Providing homestay options for travelers, offering a local touch and comfortable stays.
+
+##Short-Term Rentals
+Short-term room rental services located in key parts of the city.
+
 [Write more detailed information about the city here, such as the city's concept, vision, and unique features.]
 
