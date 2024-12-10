@@ -35,22 +35,22 @@ The proposal must cover various aspects such as:
 
 
 
-##Electricity Generation
+**Electricity Generation**
 Using river currents flowing throughout the city to generate electricity sustainably.
 
-##Transport
+**Transport**
 An exclusive, private transport facility to help residents navigate within the city.
 
-##EV Charge Stations
+**EV Charge Stations**
 A private company setting up charging stations, including an application for their business.
 
-##Food Delivery Service
+**Food Delivery Service**
 An efficient service ensuring timely delivery of meals across the city.
 
-##Automobile Service Centers
+**Automobile Service Centers**
 Centers offering repairs and maintenance for vehicles at convenient locations.
 
-##Homestay
+**Homestay**
 Providing homestay options for travelers, offering a local touch and comfortable stays.
 
 ##Short-Term Rentals
