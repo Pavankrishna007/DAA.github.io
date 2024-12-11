@@ -53,7 +53,7 @@ Centers offering repairs and maintenance for vehicles at convenient locations.
 **Homestay**
 Providing homestay options for travelers, offering a local touch and comfortable stays.
 
-##Short-Term Rentals
+**Short-Term Rentals**
 Short-term room rental services located in key parts of the city.
 
 [Write more detailed information about the city here, such as the city's concept, vision, and unique features.]
